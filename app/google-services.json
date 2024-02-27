@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "544374556775",
+    "project_id": "proyekpmob-c964a",
+    "storage_bucket": "proyekpmob-c964a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544374556775:android:437fe1b506b0881870ecc2",
+        "android_client_info": {
+          "package_name": "com.example.praktikum6"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6ZZo5BN4FdAgOOjDAHDCbtZ3AFkz61Vw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
